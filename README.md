@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @BharatVarfa
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning web developement
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me varfabharat19@gmail.com
 
 <!---
